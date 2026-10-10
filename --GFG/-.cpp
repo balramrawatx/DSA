@@ -1,34 +1,12 @@
 class Solution {
   public:
-    vector<int> alternateSort(vector<int>& arr) {
+    int nthFibonacci(int n) {
         // code here
-        vector<int>v;
+        if(n<=1) return n;
         
-        int n = arr.size();
-        sort(arr.begin(), arr.end());
-        if(n%2==0){
-            for(int i =0; i<n/2; i++){
-            v.push_back(arr[n-i-1]);
-            v.push_back(arr[i]);
-        }
-        }
-        else {
-            for(int i =0; i<(n/2)+1; i++){
-                
-                v.push_back(arr[n-i-1]);
-                if(arr[i]==arr[n-i-1]){
-                    break;
-                }
-                v.push_back(arr[i]);
-                
-            }
-        
-        
-        return v;
-    }
+        return nthFibonacci(n-1) + nthFibonacci(n-2);
     }
 };
-
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
