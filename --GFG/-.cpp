@@ -1,10 +1,10 @@
 class Solution {
   public:
-    int nthFibonacci(int n) {
-        // code here
-        if(n<=1) return n;
+    int countDigits(int n) {
+        // Code here
+        if(n/10==0) return 1;
         
-        return nthFibonacci(n-1) + nthFibonacci(n-2);
+        return 1 + countDigits(n/10);
     }
 };
 
