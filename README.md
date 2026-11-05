@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/balramrawatx/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/balramrawatx/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## String
 |  |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/balramrawatx/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/balramrawatx/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/balramrawatx/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
