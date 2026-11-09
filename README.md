@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/balramrawatx/DSA/tree/master/0050-powx-n) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/balramrawatx/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/balramrawatx/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/balramrawatx/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/balramrawatx/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
