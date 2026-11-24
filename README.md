@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/balramrawatx/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/balramrawatx/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/balramrawatx/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/balramrawatx/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/balramrawatx/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
