@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/balramrawatx/DSA/tree/master/0050-powx-n) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/balramrawatx/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/balramrawatx/DSA/tree/master/2396-strictly-palindromic-number) |
+| [3360-stone-removal-game](https://github.com/balramrawatx/DSA/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/balramrawatx/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/balramrawatx/DSA/tree/master/3360-stone-removal-game) |
 ## Linked List
 |  |
 | ------- |
