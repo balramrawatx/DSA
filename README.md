@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/balramrawatx/DSA/tree/master/0389-find-the-difference) |
 | [1768-merge-strings-alternately](https://github.com/balramrawatx/DSA/tree/master/1768-merge-strings-alternately) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/balramrawatx/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/balramrawatx/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0389-find-the-difference](https://github.com/balramrawatx/DSA/tree/master/0389-find-the-difference) |
 ## Union-Find
 |  |
 | ------- |
@@ -56,4 +58,12 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/balramrawatx/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/balramrawatx/DSA/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/balramrawatx/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
