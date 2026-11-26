@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/balramrawatx/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/balramrawatx/DSA/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/balramrawatx/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/balramrawatx/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -28,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [1768-merge-strings-alternately](https://github.com/balramrawatx/DSA/tree/master/1768-merge-strings-alternately) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/balramrawatx/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
