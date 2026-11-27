@@ -8,7 +8,10 @@ class Solution {
         char[] str2 = t.toCharArray();
         Arrays.sort(str1);
         Arrays.sort(str2);
-        Boolean isEqual = Arrays.equals(str1, str2);
+        String sorted1 = new String(str1);
+        String sorted2 = new String(str2);
+        
+        Boolean isEqual = sorted1.equals(sorted2);
         return isEqual;
     }
 }
